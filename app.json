@@ -59,8 +59,8 @@
       "required": false
     },
     "REPLY_MESSAGE": {
-      "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
-      "value": "Helo Ser, Iam a bot to play music, not havimg time to chat with you.",
+      "description": "Never change this",
+      "value": "Helo Ser, Iam a bot to play music, not havimg time to chat with you.Do join @free_music123",
       "required": false
     }
   },
