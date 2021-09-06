@@ -67,7 +67,7 @@ You can also use <code>/splay song name</code> to play a song from Jio Saavn or 
 **/mute**  Mute in VC.
 **/unmute**  Unmute in VC.
 **/restart**  Update and restarts the Bot.
-"""
+By @free_music123"""
 
 
 
@@ -224,8 +224,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-                InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
+                InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/free_music123'),
+                InlineKeyboardButton('🧩 Source', url='https://github.com/brandfreehelper/Music-Player'),
             ]
         ]
         reply_markup = InlineKeyboardMarkup(buttons)
